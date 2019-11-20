@@ -1,0 +1,341 @@
+{
+    "iso": "amh",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "amh-Ethi-pp",
+    "mappings": [
+        {
+            "phone": "a",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "p",
+            "phoneme": "b",
+            "environment": "pre-pausally and when a voiceless abstruent follows"
+        },
+        {
+            "phone": "β̞",
+            "phoneme": "b",
+            "environment": "medially between sonorants"
+        },
+        {
+            "phone": "bʷ",
+            "phoneme": "bʷ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "pʷ",
+            "phoneme": "bʷ",
+            "environment": "pre-pausally and when a voiceless abstruent follows"
+        },
+        {
+            "phone": "b'",
+            "phoneme": "b'",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d͡ʒ",
+            "phoneme": "d͡ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ə",
+            "phoneme": "ə",
+            "environment": "elsewhere",
+            "notes": "often annotated as /ä/"
+        },
+        {
+            "phone": "ɛ",
+            "phoneme": "ə",
+            "environment": "following postalveolar and palatal consonants"
+        },
+        {
+            "phone": "ɔ",
+            "phoneme": "ə",
+            "environment": "following labialized consonants and /w/"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "fʷ",
+            "phoneme": "fʷ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "ɡ",
+            "environment": "pre-pausally and when a voiceless abstruent follows"
+        },
+        {
+            "phone": "gʷ",
+            "phoneme": "ɡʷ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "kʷ",
+            "phoneme": "ɡʷ",
+            "environment": "pre-pausally and when a voiceless abstruent follows"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɦ",
+            "phoneme": "h",
+            "environment": "between vowels"
+        },
+        {
+            "phone": "ç",
+            "phoneme": "h",
+            "environment": "following /i, ɨ/"
+        },
+        {
+            "phone": "hʷ",
+            "phoneme": "hʷ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɨ",
+            "phoneme": "ɨ",
+            "environment": "elsewhere",
+            "notes": "often annotated as /ə/"
+        },
+        {
+            "phone": "ɪ",
+            "phoneme": "ɨ",
+            "environment": "following postalveolar and palatal consonants"
+        },
+        {
+            "phone": "ʊ",
+            "phoneme": "ɨ",
+            "environment": "following labialized consonants and /w/"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k'",
+            "phoneme": "kʼ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "kʷ",
+            "phoneme": "kʷ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "kʷ'",
+            "phoneme": "kʼʷ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "mʷ",
+            "phoneme": "mʷ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "ɲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere",
+            "notes": "words of foreign origin"
+        },
+        {
+            "phone": "p'",
+            "phoneme": "pʼ",
+            "environment": "elsewhere",
+            "notes": "words of foreign origin"
+        },
+        {
+            "phone": "pʷ'",
+            "phoneme": "pʷ'",
+            "environment": "elsewhere",
+            "notes": "words of foreign origin"
+        },
+        {
+            "phone": "r",
+            "phoneme": "r",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s'",
+            "phoneme": "s'",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡sʼ",
+            "phoneme": "s'",
+            "environment": "elsewhere",
+            "notes": "Maybe free variation with s'?"
+        },
+        {
+            "phone": "t'",
+            "phoneme": "s'",
+            "environment": "in initial position"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t'",
+            "phoneme": "tʼ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "tʷ'",
+            "phoneme": "tʼʷ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡sʼ",
+            "phoneme": "t͡sʼ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t͡ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡ʃʼ",
+            "phoneme": "t͡ʃʼ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "notes": "I think this may simply be missing from the description"
+        },
+        {
+            "phone": "vʷ",
+            "phoneme": "vʷ",
+            "notes": "I think this may simply be missing from the description [I believe that is correct -DRM]"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s",
+            "phoneme": "z",
+            "environment": "pre-pausally and when a voiceless abstruent follows"
+        },
+        {
+            "phone": "ʒ",
+            "phoneme": "ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʒ",
+            "environment": "pre-pausally and when a voiceless abstruent follows"
+        },
+        {
+            "phone": "d͡ʒ",
+            "phoneme": "ʒ",
+            "environment": "in initial position"
+        },
+        {
+            "phone": "ʔ",
+            "phoneme": "ʔ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "β",
+            "phoneme": "β",
+            "environment": "elsewhere",
+            "notes": "only in loanwords"
+        },
+        {
+            "phone": "x",
+            "phoneme": "x",
+            "notes": "Missing from illustration, but is definitely in the language, and there exist letters to write it."
+        }
+    ]
+}

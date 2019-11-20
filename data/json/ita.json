@@ -1,0 +1,286 @@
+{
+    "iso": "ita",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "ita-Latn",
+    "mappings": [
+        {
+            "phone": "a",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "bː",
+            "phoneme": "bː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "dː",
+            "phoneme": "dː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "d͡z",
+            "phoneme": "t͡s",
+            "environment": "elsewhere",
+            "notes": "There are no orthographic cues to the distinction between [t͡s] and [d͡z], so it is best to treat [d͡z] as a variant of [t͡s]."
+        },
+        {
+            "phone": "d͡ʒ",
+            "phoneme": "d͡ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɛ",
+            "phoneme": "ɛ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "fː",
+            "phoneme": "fː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "gː",
+            "phoneme": "ɡː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "kː",
+            "phoneme": "kː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "lː",
+            "phoneme": "lː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "ʎ",
+            "phoneme": "ʎ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɱ",
+            "phoneme": "m",
+            "environment": "before labio-dentals /f v/"
+        },
+        {
+            "phone": "n",
+            "phoneme": "m",
+            "environment": "before alveolars and post-alveolars"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "m",
+            "environment": "before palatals"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "m",
+            "environment": "before velars"
+        },
+        {
+            "phone": "mː",
+            "phoneme": "mː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "n",
+            "environment": "before labials /p b m/"
+        },
+        {
+            "phone": "ɱ",
+            "phoneme": "n",
+            "environment": "before labio-dentals /f v/"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "n",
+            "environment": "before palatals"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "n",
+            "environment": "before velars"
+        },
+        {
+            "phone": "nː",
+            "phoneme": "nː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "ɲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "ɲ",
+            "environment": "before labials /p b m/"
+        },
+        {
+            "phone": "ɱ",
+            "phoneme": "ɲ",
+            "environment": "before labio-dentals /f v/"
+        },
+        {
+            "phone": "n",
+            "phoneme": "ɲ",
+            "environment": "before alveolars and post-alveolars"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "ɲ",
+            "environment": "before velars"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɔ",
+            "phoneme": "ɔ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "pː",
+            "phoneme": "pː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "r",
+            "phoneme": "r",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "rː",
+            "phoneme": "rː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "sː",
+            "phoneme": "sː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "tː",
+            "phoneme": "tː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "t͡s",
+            "phoneme": "t͡s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t͡ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "vː",
+            "phoneme": "vː",
+            "environment": "word initial"
+        },
+        {
+            "phone": "w",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z",
+            "environment": "elsewhere",
+            "notes": "Technically, this is probably best treated as an allophone of /s/, but I have added a rule for in to Epitran"
+        }
+    ]
+}

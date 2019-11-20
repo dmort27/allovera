@@ -1,0 +1,310 @@
+{
+    "iso": "tgl",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "tgl-Latn",
+    "mappings": [
+        {
+            "phone": "a",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɐ",
+            "phoneme": "a",
+            "environment": "in unstressed positions, and occationally in stressed positions"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d͡ʒ",
+            "phoneme": "d",
+            "environment": "when followed by /j/"
+        },
+        {
+            "phone": "ɾ",
+            "phoneme": "d",
+            "environment": "in word initial or final positions with affixes with a vowel touching the /d/"
+        },
+        {
+            "phone": "d͡ʒ",
+            "phoneme": "d͡ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d͡z",
+            "phoneme": "d͡ʒ",
+            "environment": "elsewhere",
+            "notes": "some speakers in rural areas"
+        },
+        {
+            "phone": "ʒ",
+            "phoneme": "d͡ʒ",
+            "environment": "elsewhere",
+            "notes": "some speakers in urban areas"
+        },
+        {
+            "phone": "ɛ",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "i",
+            "phoneme": "e",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "ɪ",
+            "phoneme": "e",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "environment": "elsewhere",
+            "notes": "used in names and loan words (e.g. Filipino)"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɰ",
+            "phoneme": "ɡ",
+            "environment": "intervocalically"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɪ",
+            "phoneme": "i",
+            "environment": "elsewhere + in final syllables"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i",
+            "environment": "in final syllables"
+        },
+        {
+            "phone": "e",
+            "phoneme": "i",
+            "environment": "in final syllables"
+        },
+        {
+            "phone": "ɛ",
+            "phoneme": "i",
+            "environment": "in final syllables"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "kx",
+            "phoneme": "k",
+            "environment": "word initially"
+        },
+        {
+            "phone": "x",
+            "phoneme": "k",
+            "environment": "intervocalically"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "ɲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "ŋ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "ŋ",
+            "environment": "before /b, p/"
+        },
+        {
+            "phone": "n",
+            "phoneme": "ŋ",
+            "environment": "before /d t s l/"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʊ",
+            "phoneme": "o",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "ɔ",
+            "phoneme": "o",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "u",
+            "phoneme": "o",
+            "environment": "particularly before [mb, mp]"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɾ",
+            "phoneme": "ɾ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "r",
+            "phoneme": "ɾ",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "ɹ",
+            "phoneme": "ɾ",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "ɽ",
+            "phoneme": "ɾ",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "s",
+            "environment": "when followed by /j/"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s",
+            "phoneme": "ʃ",
+            "environment": "elsewhere",
+            "notes": "maybe only in rural areas"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t",
+            "environment": "when followed by /j/"
+        },
+        {
+            "phone": "t͡s",
+            "phoneme": "t͡s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t͡s",
+            "environment": "elsewhere",
+            "notes": "speakers in rural areas"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t͡ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡s",
+            "phoneme": "t͡ʃ",
+            "environment": "elsewhere",
+            "notes": "maybe only in rural areas"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʊ",
+            "phoneme": "u",
+            "environment": "unstressed"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "environment": "elsewhere",
+            "notes": "used in names and loan words (e.g. David)"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z",
+            "environment": "elsewhere",
+            "notes": "marginal consonant"
+        },
+        {
+            "phone": "ʔ",
+            "phoneme": "ʔ",
+            "environment": "elsewhere"
+        }
+    ]
+}

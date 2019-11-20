@@ -1,0 +1,358 @@
+{
+    "iso": "rus",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "rus-Cyrl",
+    "mappings": [
+        {
+            "phone": "a",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʌ",
+            "phoneme": "a",
+            "environment": "in the syllable immediately before the stressed syllable and when the word begins with the unstressed vowel"
+        },
+        {
+            "phone": "ɐ",
+            "phoneme": "a",
+            "environment": "in the syllable immediately before the stressed syllable and when the word begins with the unstressed vowel"
+        },
+        {
+            "phone": "ə",
+            "phoneme": "a",
+            "environment": "all other unstressed syllables"
+        },
+        {
+            "phone": "i̞",
+            "phoneme": "a",
+            "environment": "after palatelized consonants"
+        },
+        {
+            "phone": "I",
+            "phoneme": "a",
+            "environment": "after palatelized consonants"
+        },
+        {
+            "phone": "æ",
+            "phoneme": "a"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "bʲ",
+            "phoneme": "bʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "dʲ",
+            "phoneme": "dʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "fʲ",
+            "phoneme": "fʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "g̟ʲ",
+            "phoneme": "ɡʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɨ",
+            "phoneme": "ɨ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "i̯",
+            "phoneme": "j",
+            "environment": "especially when unstressed"
+        },
+        {
+            "phone": "ʝ",
+            "phoneme": "j",
+            "environment": "emphatically"
+        },
+        {
+            "phone": "ç",
+            "phoneme": "j",
+            "environment": "emphatically"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "g",
+            "phoneme": "k",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "k̟ʲ",
+            "phoneme": "kʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "g̟ʲ",
+            "phoneme": "kʲ",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "lʲ",
+            "phoneme": "lʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "mʲ",
+            "phoneme": "mʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "nʲ",
+            "phoneme": "nʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "b",
+            "phoneme": "p",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "pʲ",
+            "phoneme": "pʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "bʲ",
+            "phoneme": "pʲ",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "r",
+            "phoneme": "r",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɾʲ",
+            "phoneme": "rʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "z",
+            "phoneme": "s",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "sʲ",
+            "phoneme": "sʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "zʲ",
+            "phoneme": "sʲ",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "ʃ͡ɣ",
+            "phoneme": "ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʂ",
+            "phoneme": "ʂ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʃʲː",
+            "phoneme": "ʂʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɕː",
+            "phoneme": "ɕː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "tʲ",
+            "phoneme": "tʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "dʲ",
+            "phoneme": "tʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡s",
+            "phoneme": "t͡s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d͡z",
+            "phoneme": "t͡s",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "t͡ʃʲ",
+            "phoneme": "t͡ɕʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d͡ʒ",
+            "phoneme": "d͡ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "v̞",
+            "phoneme": "v",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʋ",
+            "phoneme": "v",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "vʲ",
+            "phoneme": "vʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "v̞ʲ",
+            "phoneme": "vʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʋʲ",
+            "phoneme": "vʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "x",
+            "phoneme": "x",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɣ",
+            "phoneme": "x",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "x̟ʲ",
+            "phoneme": "xʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɣj",
+            "phoneme": "xʲ",
+            "environment": "followed by a voiced obstruent"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "zʲ",
+            "phoneme": "zʲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʒ͡ɣ",
+            "phoneme": "ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʐ",
+            "phoneme": "ʒ",
+            "environment": "elsewhere"
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "iso": "kaz",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "kaz-Cyrl",
+    "mappings": [
+        {
+            "phone": "æ",
+            "phoneme": "æ",
+            "environment": "elsewhere",
+            "notes": "from Arabic and Persian loans, usually only in initial syllables"
+        },
+        {
+            "phone": "ɑ",
+            "phoneme": "ɑ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɑ̱ ",
+            "phoneme": "ɑ",
+            "environment": "before the velarized variant of /l̪/"
+        },
+        {
+            "phone": "ɒ",
+            "phoneme": "ɑ",
+            "environment": "before the velarized variant of /l̪/"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t̪",
+            "phoneme": "d",
+            "environment": "when followed by a word-final deleted vowel"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "environment": "elsewhere",
+            "notes": "non-native (from Russian)"
+        },
+        {
+            "phone": "ɡ",
+            "phoneme": "ɡ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h",
+            "environment": "elsewhere",
+            "notes": "non-native (from Arabic)"
+        },
+        {
+            "phone": "χ",
+            "phoneme": "h",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "i̯͡e",
+            "phoneme": "i̯e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "i͡j",
+            "phoneme": "ij",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɪ",
+            "phoneme": "ɪ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "g",
+            "phoneme": "k",
+            "environment": "intervocalically"
+        },
+        {
+            "phone": "l̪",
+            "phoneme": "l",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "n̪",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɴ",
+            "phoneme": "n",
+            "environment": "place of articulation influenced by following obstruent"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "ŋ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɵ",
+            "phoneme": "ɵ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "β",
+            "phoneme": "p",
+            "environment": "intervocalically"
+        },
+        {
+            "phone": "q",
+            "phoneme": "q",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "χ",
+            "phoneme": "q",
+            "environment": "elsewhere",
+            "notes": "in connected speech"
+        },
+        {
+            "phone": "ʁ",
+            "phoneme": "q",
+            "environment": "intervocalically"
+        },
+        {
+            "phone": "r",
+            "phoneme": "r",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɾ",
+            "phoneme": "r",
+            "environment": "in connected speech"
+        },
+        {
+            "phone": "ʁ",
+            "phoneme": "",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s̪",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "s",
+            "environment": "when followed by voiced sibilant"
+        },
+        {
+            "phone": "",
+            "phoneme": "ɕː"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t̪",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d̯",
+            "phoneme": "t",
+            "environment": "intervocalically"
+        },
+        {
+            "phone": "",
+            "phoneme": "t͡ɕ"
+        },
+        {
+            "phone": "u͡w",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʊ",
+            "phoneme": "ʊ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "environment": "elsewhere",
+            "notes": "non-native (from Russian)"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʏ",
+            "phoneme": "ʏ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʉ̞ ",
+            "phoneme": "ʏ",
+            "environment": "elsewhere",
+            "notes": "free variation"
+        },
+        {
+            "phone": "z̪",
+            "phoneme": "z",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s̪",
+            "phoneme": "z",
+            "environment": "when neighbored by sibilant within word"
+        },
+        {
+            "phone": "ʒ",
+            "phoneme": "ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʒ",
+            "environment": "when neighbored by sibilant within word"
+        },
+        {
+            "phone": "χ",
+            "phoneme": "χ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "x",
+            "phoneme": "χ",
+            "environment": "in words with Russian influence",
+            "notes": "non-native (from Russian)"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "χ",
+            "environment": "elsewhere",
+            "notes": "free variation?"
+        },
+        {
+            "phone": "ʒ",
+            "phoneme": "χ",
+            "environment": "elsewhere",
+            "notes": "free variation?"
+        },
+        {
+            "phone": "ә",
+            "phoneme": "ə",
+            "environment": "elsewhere"
+        }
+    ]
+}

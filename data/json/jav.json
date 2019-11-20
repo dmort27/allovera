@@ -1,0 +1,194 @@
+{
+    "iso": "jav",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "jav-Latn",
+    "mappings": [
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɳ",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "n̪",
+            "phoneme": "n̪",
+            "environment": "???"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "ɲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "ŋ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "b̤",
+            "phoneme": "b̤",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t̪",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d̪ ",
+            "phoneme": "d̪̤",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʈ",
+            "phoneme": "ʈ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɖ̤",
+            "phoneme": "ɖ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t͡ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d͡ʒ̤",
+            "phoneme": "d͡ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɡ̤",
+            "phoneme": "ɡ̤",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʔ",
+            "phoneme": "ʔ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "r",
+            "phoneme": "r",
+            "environment": "???"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɪ",
+            "phoneme": "i",
+            "environment": "closed syllables"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʊ",
+            "phoneme": "u",
+            "environment": "closed syllables"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɛ",
+            "phoneme": "e",
+            "environment": "closed syllables or when the following vowel is /i u/ in an open syllable"
+        },
+        {
+            "phone": "ə",
+            "phoneme": "ə",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɔ",
+            "phoneme": "o",
+            "environment": "closed syllables or when the following vowel is /i u/ in an open syllable"
+        },
+        {
+            "phone": "a",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɔ",
+            "phoneme": "a",
+            "environment": "word-final open syllables, and in any open penultimate syllable before an [ɔ]"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "notes": "Loanwords\n"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "notes": "Loanwords\n"
+        },
+        {
+            "phone": "k",
+            "phoneme": "q",
+            "notes": "Loanwords\n"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "notes": "Loanwords\n"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z",
+            "notes": "Loanwords\n"
+        }
+    ]
+}

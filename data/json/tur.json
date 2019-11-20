@@ -1,0 +1,220 @@
+{
+    "iso": "tur",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "tur-Latn",
+    "mappings": [
+        {
+            "phone": "a",
+            "phoneme": "a"
+        },
+        {
+            "phone": "aː",
+            "phoneme": "a"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "æ",
+            "phoneme": "e",
+            "environment": "before liquids [l, m, n, ɾ] in coda/syllable-final position, and in the suffix -mez"
+        },
+        {
+            "phone": "eː",
+            "phoneme": "e"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i"
+        },
+        {
+            "phone": "iː",
+            "phoneme": "i"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o"
+        },
+        {
+            "phone": "œ",
+            "phoneme": "œ"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u"
+        },
+        {
+            "phone": "uː",
+            "phoneme": "u"
+        },
+        {
+            "phone": "ɯ",
+            "phoneme": "ɯ"
+        },
+        {
+            "phone": "y",
+            "phoneme": "y"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d"
+        },
+        {
+            "phone": "d͡ʒ",
+            "phoneme": "d͡ʒ"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "x",
+            "phoneme": "h",
+            "environment": "maybe, in final positions"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "n",
+            "environment": "before the consonants [ɟ] and [c]"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "n",
+            "environment": "before the consonants [ɡ] and [k]"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p"
+        },
+        {
+            "phone": "ɾ",
+            "phoneme": "ɾ"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t͡ʃ"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z"
+        },
+        {
+            "phone": "ʒ",
+            "phoneme": "ʒ"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "β",
+            "phoneme": "v",
+            "environment": "around rounded vowels"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "before back vowels",
+            "notes": "only contrast in loan words"
+        },
+        {
+            "phone": "c",
+            "phoneme": "k",
+            "environment": "before front vowels",
+            "notes": "only contrast in loan words"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "before back vowels",
+            "notes": "only contrast in loan words"
+        },
+        {
+            "phone": "ɟ",
+            "phoneme": "ɡ",
+            "environment": "before front vowels",
+            "notes": "only contrast in loan words"
+        },
+        {
+            "phone": "ɫ",
+            "phoneme": "l",
+            "environment": "before back vowels",
+            "notes": "only contrast in loan words"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "before front vowels",
+            "notes": "only contrast in loan words"
+        },
+        {
+            "phone": "",
+            "phoneme": "ɣ",
+            "environment": "in syllable-initial positions",
+            "notes": "used to match the Turkish (soft g) letter: ğ (accounts for morphology)"
+        },
+        {
+            "phone": "ː",
+            "phoneme": "ɣ",
+            "environment": "if word-final or if followed by a consonant"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "in proper names"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "between front vowels"
+        },
+        {
+            "phone": "ɰ",
+            "phoneme": "ɰ",
+            "environment": "between front vowels"
+        }
+    ]
+}

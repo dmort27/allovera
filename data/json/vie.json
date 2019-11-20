@@ -1,0 +1,177 @@
+{
+    "iso": "vie",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "",
+    "mappings": [
+        {
+            "phone": "p̚",
+            "phoneme": "p"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b"
+        },
+        {
+            "phone": "ɓ",
+            "phoneme": "b"
+        },
+        {
+            "phone": "t̪",
+            "phoneme": "t"
+        },
+        {
+            "phone": "t̪̚",
+            "phoneme": "t"
+        },
+        {
+            "phone": "t̪ʰ",
+            "phoneme": "tʰ"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d"
+        },
+        {
+            "phone": "ɗ",
+            "phoneme": "d"
+        },
+        {
+            "phone": "t͡ɕ",
+            "phoneme": "c"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k"
+        },
+        {
+            "phone": "k͡p̚",
+            "phoneme": "k"
+        },
+        {
+            "phone": "k̟̚",
+            "phoneme": "k"
+        },
+        {
+            "phone": "ʔ",
+            "phoneme": "ʔ"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "ɲ"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "ŋ"
+        },
+        {
+            "phone": "ŋ̟",
+            "phoneme": "ŋ"
+        },
+        {
+            "phone": "ŋ͡m",
+            "phoneme": "ŋ"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z"
+        },
+        {
+            "phone": "x",
+            "phoneme": "x"
+        },
+        {
+            "phone": "ɣ",
+            "phoneme": "ɣ"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e"
+        },
+        {
+            "phone": "ɛ",
+            "phoneme": "ɛ"
+        },
+        {
+            "phone": "ɯ",
+            "phoneme": "ɯ"
+        },
+        {
+            "phone": "ɨ",
+            "phoneme": "ɯ"
+        },
+        {
+            "phone": "ɤ",
+            "phoneme": "ɤ"
+        },
+        {
+            "phone": "ɤ̆",
+            "phoneme": "ɤ̆"
+        },
+        {
+            "phone": "a",
+            "phoneme": "a"
+        },
+        {
+            "phone": "ă",
+            "phoneme": "ă"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o"
+        },
+        {
+            "phone": "ɔ",
+            "phoneme": "ɔ"
+        },
+        {
+            "phone": "ə",
+            "phoneme": "ə"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j"
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "iso": "fra",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "fra-Latn",
+    "mappings": [
+        {
+            "phone": "i",
+            "phoneme": "i",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ə",
+            "phoneme": "ə",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɛ",
+            "phoneme": "ɛ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "y",
+            "phoneme": "y",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ø",
+            "phoneme": "ø",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "œ",
+            "phoneme": "œ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "a",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɔ",
+            "phoneme": "ɔ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ã",
+            "phoneme": "ã",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɔ̃",
+            "phoneme": "ɔ̃",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "œ̃",
+            "phoneme": "œ̃",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɛ̃",
+            "phoneme": "ɛ̃",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "ɲ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "ŋ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʒ",
+            "phoneme": "ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʁ̝",
+            "phoneme": "r",
+            "environment": "Word final"
+        },
+        {
+            "phone": "χ",
+            "phoneme": "r",
+            "environment": "before or after voiceless obstruent"
+        },
+        {
+            "phone": "ʁ",
+            "phoneme": "r",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɥ",
+            "phoneme": "ɥ",
+            "environment": "elsewhere"
+        }
+    ]
+}

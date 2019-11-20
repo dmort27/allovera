@@ -1,0 +1,219 @@
+{
+    "iso": "deu",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "deu-Latn",
+    "mappings": [
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʔ",
+            "phoneme": "ʔ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɡ",
+            "phoneme": "ɡ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ç",
+            "phoneme": "ç",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "x",
+            "phoneme": "x",
+            "environment": "between back vowels and morpheme boundaries"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "v",
+            "phoneme": "v",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "z",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʒ",
+            "phoneme": "ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʝ",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "ŋ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʀ",
+            "phoneme": "r",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "i",
+            "phoneme": "iː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "e",
+            "phoneme": "eː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "æ",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "y",
+            "phoneme": "yː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ø",
+            "phoneme": "øː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "u",
+            "phoneme": "uː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "o",
+            "phoneme": "oː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɑ",
+            "phoneme": "aː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɪ",
+            "phoneme": "i",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɛ",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʏ",
+            "phoneme": "y",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "œ",
+            "phoneme": "ø",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʊ",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɔ",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "a",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ə",
+            "phoneme": "ə",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "dʒ",
+            "phoneme": "d͡ʒ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "pf",
+            "phoneme": "pf",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "tʃ",
+            "phoneme": "t͡ʃ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ts",
+            "phoneme": "t͡s",
+            "environment": "elsewhere"
+        }
+    ]
+}

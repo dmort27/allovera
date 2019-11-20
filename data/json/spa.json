@@ -1,0 +1,276 @@
+{
+    "iso": "spa",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "epitran": "spa-Latn",
+    "mappings": [
+        {
+            "phone": "a",
+            "phoneme": "a"
+        },
+        {
+            "phone": "e",
+            "phoneme": "e"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "environment": "before vowels"
+        },
+        {
+            "phone": "ʝ",
+            "phoneme": "ʝ",
+            "environment": "after h"
+        },
+        {
+            "phone": "j",
+            "phoneme": "j",
+            "glottocodes": [
+                "amer1254"
+            ],
+            "notes": "Chile"
+        },
+        {
+            "phone": "o",
+            "phoneme": "o"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w"
+        },
+        {
+            "phone": "u",
+            "phoneme": "u"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "glottocodes": [
+                "cast1244"
+            ],
+            "notes": "Spain"
+        },
+        {
+            "phone": "b̞",
+            "phoneme": "b"
+        },
+        {
+            "phone": "β",
+            "phoneme": "b",
+            "glottocodes": [
+                "cast1244"
+            ]
+        },
+        {
+            "phone": "b",
+            "phoneme": "b"
+        },
+        {
+            "phone": "s",
+            "phoneme": "θ",
+            "environment": "before e, i"
+        },
+        {
+            "phone": "θ",
+            "phoneme": "θ",
+            "environment": "before e, i",
+            "glottocodes": [
+                "cast1244"
+            ]
+        },
+        {
+            "phone": "k",
+            "phoneme": "k"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t͡ʃ",
+            "glottocodes": [
+                "cast1244"
+            ],
+            "notes": "Spain"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d"
+        },
+        {
+            "phone": "ð",
+            "phoneme": "d",
+            "glottocodes": [
+                "cast1244"
+            ],
+            "notes": "Spain"
+        },
+        {
+            "phone": "f",
+            "phoneme": "f"
+        },
+        {
+            "phone": "ɣ",
+            "phoneme": "ɡ",
+            "glottocodes": [
+                "cast1244"
+            ]
+        },
+        {
+            "phone": "x",
+            "phoneme": "x",
+            "environment": "before e or i"
+        },
+        {
+            "phone": "ɡ",
+            "phoneme": "ɡ"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h"
+        },
+        {
+            "phone": "ç",
+            "phoneme": "ʝ",
+            "environment": "before e or i",
+            "glottocodes": [
+                "cast1244",
+                "arag1246"
+            ],
+            "notes": "Castillian"
+        },
+        {
+            "phone": "x",
+            "phoneme": "x"
+        },
+        {
+            "phone": "χ",
+            "phoneme": "x",
+            "environment": "optionally, before a back vowel",
+            "glottocodes": [
+                "cast1244"
+            ]
+        },
+        {
+            "phone": "k",
+            "phoneme": "k"
+        },
+        {
+            "phone": "l",
+            "phoneme": "l"
+        },
+        {
+            "phone": "ʝ",
+            "phoneme": "ʎ",
+            "notes": "traditional, Andes (Peru, Bolivia, Paraguay)"
+        },
+        {
+            "phone": "ʒ",
+            "phoneme": "ʎ",
+            "notes": "Some parts of South America\n"
+        },
+        {
+            "phone": "ʎ",
+            "phoneme": "ʎ",
+            "notes": "traditional"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "notes": "throughout Latin America and some Spain provinces"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "n",
+            "environment": "word final",
+            "glottocodes": [
+                "amer1254"
+            ]
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "ɲ"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k"
+        },
+        {
+            "phone": "ɾ",
+            "phoneme": "ɾ",
+            "glottocodes": [
+                "amer1254"
+            ],
+            "notes": "Ecuador, Bolivia, Paraguay, North Argentina"
+        },
+        {
+            "phone": "r",
+            "phoneme": "r",
+            "glottocodes": [
+                "amer1254"
+            ],
+            "notes": "Ecuador, Bolivia, Paraguay, North Argentina"
+        },
+        {
+            "phone": "ɹ",
+            "phoneme": "r",
+            "glottocodes": [
+                "amer1254"
+            ]
+        },
+        {
+            "phone": "ɹ",
+            "phoneme": "r",
+            "glottocodes": [
+                "amer1254"
+            ],
+            "notes": "In some countries or northern Spain"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ"
+        },
+        {
+            "phone": "ʃ",
+            "phoneme": "ʃ"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t"
+        },
+        {
+            "phone": "t͡ɬ",
+            "phoneme": "t͡ɬ"
+        },
+        {
+            "phone": "t͡ʃ",
+            "phoneme": "t͡ʃ"
+        },
+        {
+            "phone": "t͡s",
+            "phoneme": "t͡s"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s"
+        }
+    ]
+}

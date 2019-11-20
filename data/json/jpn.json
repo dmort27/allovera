@@ -1,0 +1,254 @@
+{
+    "iso": "jpn",
+    "glottocodes": [],
+    "primary src": "",
+    "secondary srcs": [],
+    "g2p": "custom".
+    "mappings": [
+        {
+            "phone": "ä",
+            "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ḁ",
+            "phoneme": "a",
+            "environment": "between two voiceless consonants where the same phoneme appears in two consecutive mora"
+        },
+        {
+            "phone": "aː",
+            "phoneme": "aː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "i",
+            "phoneme": "i",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "i̥",
+            "phoneme": "i",
+            "environment": "between two voiceless consonants or between a voiceless consonant and a pausa"
+        },
+        {
+            "phone": "iː",
+            "phoneme": "iː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɯ̟",
+            "phoneme": "u",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɯ̥",
+            "phoneme": "u",
+            "environment": "between two voiceless consonants or between a voiceless consonant and a pausa"
+        },
+        {
+            "phone": "ɨ",
+            "phoneme": "u",
+            "environment": "after /s, z, t/ and palatalized consonants (/Cj/)"
+        },
+        {
+            "phone": "uː",
+            "phoneme": "uː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "e̞",
+            "phoneme": "e",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "eː",
+            "phoneme": "eː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "o̞",
+            "phoneme": "o",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "o̥",
+            "phoneme": "o",
+            "environment": "between two voiceless consonants where the same phoneme appears in two consecutive mora"
+        },
+        {
+            "phone": "oː",
+            "phoneme": "oː",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "k",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "kʲ",
+            "phoneme": "k",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "g",
+            "phoneme": "ɡ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "gʲ",
+            "phoneme": "ɡ",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɕ",
+            "phoneme": "sh",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "z",
+            "phoneme": "z",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ʑ",
+            "phoneme": "j",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "t",
+            "phoneme": "t",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t͡ɕ",
+            "phoneme": "ch",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "t͡s",
+            "phoneme": "t͡s",
+            "environment": "before /u/"
+        },
+        {
+            "phone": "d",
+            "phoneme": "d",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d͡ʑ",
+            "phoneme": "j",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "d͡z",
+            "phoneme": "z",
+            "environment": "before /u/"
+        },
+        {
+            "phone": "n",
+            "phoneme": "n",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "h",
+            "phoneme": "h",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ç",
+            "phoneme": "h",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "ɸ",
+            "phoneme": "f",
+            "environment": "before /u/"
+        },
+        {
+            "phone": "b",
+            "phoneme": "b",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "bʲ",
+            "phoneme": "b",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "p",
+            "phoneme": "p",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "pʲ",
+            "phoneme": "p",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "m",
+            "phoneme": "m",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "mʲ",
+            "phoneme": "m",
+            "environment": "before /i and j/"
+        },
+        {
+            "phone": "j",
+            "phoneme": "y",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɾ",
+            "phoneme": "r",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɾ̠",
+            "phoneme": "r",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "w",
+            "phoneme": "w",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɴ",
+            "phoneme": "ŋ",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "m",
+            "phoneme": "ŋ",
+            "environment": "before /p, b, m/"
+        },
+        {
+            "phone": "ɲ",
+            "phoneme": "ŋ",
+            "environment": "before [t͡ɕ, d͡ʑ, ɲ]"
+        },
+        {
+            "phone": "ŋ",
+            "phoneme": "ŋ",
+            "environment": "before /k, ɡ/"
+        },
+        {
+            "phone": "n",
+            "phoneme": "ŋ",
+            "environment": "before [d, t, t͡s, n]"
+        },
+        {
+            "phone": "n̺",
+            "phoneme": "ŋ",
+            "environment": "before liquid /r/"
+        }
+    ]
+}
