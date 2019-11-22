@@ -1,6 +1,6 @@
 {
     "iso": "rus",
-    "glottocodes": [],
+    "ɡlottocodes": [],
     "primary src": "",
     "secondary srcs": [],
     "epitran": "rus-Cyrl",
@@ -75,12 +75,12 @@
             "environment": "elsewhere"
         },
         {
-            "phone": "g",
+            "phone": "ɡ",
             "phoneme": "ɡ",
             "environment": "elsewhere"
         },
         {
-            "phone": "g̟ʲ",
+            "phone": "ɡʲ",
             "phoneme": "ɡʲ",
             "environment": "elsewhere"
         },
@@ -120,7 +120,7 @@
             "environment": "elsewhere"
         },
         {
-            "phone": "g",
+            "phone": "ɡ",
             "phoneme": "k",
             "environment": "followed by a voiced obstruent"
         },
@@ -130,7 +130,7 @@
             "environment": "elsewhere"
         },
         {
-            "phone": "g̟ʲ",
+            "phone": "ɡʲ",
             "phoneme": "kʲ",
             "environment": "followed by a voiced obstruent"
         },

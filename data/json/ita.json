@@ -255,6 +255,11 @@
             "phone": "t͡ʃ",
             "phoneme": "t͡ʃ",
             "environment": "elsewhere"
+        },        
+        {
+            "phone": "t͡ʃː",
+            "phoneme": "t͡ʃː",
+            "environment": "elsewhere"
         },
         {
             "phone": "u",
