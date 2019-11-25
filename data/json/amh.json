@@ -1,7 +1,7 @@
 {
     "iso": "amh",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["amha1245"],
+    "primary src": "IPA:1999-handbook",
     "secondary srcs": [],
     "epitran": "amh-Ethi-pp",
     "mappings": [
