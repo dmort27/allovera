@@ -1,7 +1,7 @@
 {
     "iso": "jav",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["java1254"],
+    "primary src": "Suharno:1982-descriptive",
     "secondary srcs": [],
     "epitran": "jav-Latn",
     "mappings": [
@@ -88,6 +88,11 @@
         {
             "phone": "h",
             "phoneme": "h",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "s",
+            "phoneme": "s",
             "environment": "elsewhere"
         },
         {
