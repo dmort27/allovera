@@ -1,8 +1,11 @@
 {
     "iso": "spa",
-    "glottocodes": [],
-    "primary src": "",
-    "secondary srcs": [],
+    "glottocode": [
+        "amer1254",
+        "cast1244"
+    ],
+    "primary src": "Martinez-Celdran-et-al:2003-illustration",
+    "secondary srcs": ["Wiki:2019-spanish-language"],
     "epitran": "spa-Latn",
     "mappings": [
         {
