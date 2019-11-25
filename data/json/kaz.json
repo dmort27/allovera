@@ -1,7 +1,7 @@
 {
     "iso": "kaz",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["kaza1248"],
+    "primary src": "McCollum-Chen:2018-illustration",
     "secondary srcs": [],
     "epitran": "kaz-Cyrl",
     "mappings": [
@@ -70,12 +70,12 @@
             "notes": "free variation"
         },
         {
-            "phone": "i̯͡e",
+            "phone": "i̯e",
             "phoneme": "i̯e",
             "environment": "elsewhere"
         },
         {
-            "phone": "i͡j",
+            "phone": "ij",
             "phoneme": "ij",
             "environment": "elsewhere"
         },
