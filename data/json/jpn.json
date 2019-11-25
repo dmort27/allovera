@@ -1,7 +1,7 @@
 {
     "iso": "jpn",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["nucl1643"],
+    "primary src": "Wiki:2019-japanese-phonology",
     "secondary srcs": [],
     "g2p": "custom",
     "mappings": [
@@ -249,6 +249,121 @@
             "phone": "n̺",
             "phoneme": "ŋ",
             "environment": "before liquid /r/"
+        },
+        {
+            "phone": "bbʲj",
+            "phoneme": "by",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "mʲj",
+            "phoneme": "my",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "gʲj",
+            "phoneme": "gy",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "çj",
+            "phoneme": "hy",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "kʲj",
+            "phoneme": "ky",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "nj",
+            "phoneme": "ny",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "pʲj",
+            "phoneme": "py",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɾj",
+            "phoneme": "ry",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "zja",
+            "phoneme": "ja",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "zje",
+            "phoneme": "je",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "zjo",
+            "phoneme": "jo",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "zji",
+            "phoneme": "ji",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "zju",
+            "phoneme": "ju",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "k",
+            "phoneme": "qk",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "g",
+            "phoneme": "qg",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ss",
+            "phoneme": "qs",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "sɕ",
+            "phoneme": "qsh",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t̚t",
+            "phoneme": "qt",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t̚t͡ɕ",
+            "phoneme": "qch",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "t̚t͡s",
+            "phoneme": "qts",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "d̚d",
+            "phoneme": "qd",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "p̚p",
+            "phoneme": "qp",
+            "environment": "elsewhere"
         }
+    ]
+}
+
+{
+    "mappings": [
     ]
 }
