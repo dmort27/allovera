@@ -121,6 +121,11 @@
             "environment": "before /i and j/"
         },
         {
+            "phone": "zj",
+            "phoneme": "j",
+            "environment": "elsewhere"
+        },
+        {
             "phone": "t",
             "phoneme": "t",
             "environment": "elsewhere"
@@ -297,74 +302,40 @@
             "environment": "elsewhere"
         },
         {
-            "phone": "zja",
-            "phoneme": "ja",
-            "environment": "elsewhere"
+            "phone": "",
+            "phoneme": "q",
+            "environment": "before k",
+            "notes": "archiphoneme"
         },
         {
-            "phone": "zje",
-            "phoneme": "je",
-            "environment": "elsewhere"
+            "phone": "",
+            "phoneme": "q",
+            "environment": "before g",
+            "notes": "archiphoneme"
         },
         {
-            "phone": "zjo",
-            "phoneme": "jo",
-            "environment": "elsewhere"
+            "phone": "s",
+            "phoneme": "q",
+            "environment": "before s, ɕ",
+            "notes": "archiphoneme"
         },
         {
-            "phone": "zji",
-            "phoneme": "ji",
-            "environment": "elsewhere"
+            "phone": "t̚",
+            "phoneme": "q",
+            "environment": "before t, t͡ɕ, t͡s",
+            "notes": "archiphoneme"
         },
         {
-            "phone": "zju",
-            "phoneme": "ju",
-            "environment": "elsewhere"
+            "phone": "d̚",
+            "phoneme": "q",
+            "environment": "before d",
+            "notes": "archiphoneme"
         },
         {
-            "phone": "k",
-            "phoneme": "qk",
-            "environment": "elsewhere"
-        },
-        {
-            "phone": "g",
-            "phoneme": "qg",
-            "environment": "elsewhere"
-        },
-        {
-            "phone": "ss",
-            "phoneme": "qs",
-            "environment": "elsewhere"
-        },
-        {
-            "phone": "sɕ",
-            "phoneme": "qsh",
-            "environment": "elsewhere"
-        },
-        {
-            "phone": "t̚t",
-            "phoneme": "qt",
-            "environment": "elsewhere"
-        },
-        {
-            "phone": "t̚t͡ɕ",
-            "phoneme": "qch",
-            "environment": "elsewhere"
-        },
-        {
-            "phone": "t̚t͡s",
-            "phoneme": "qts",
-            "environment": "elsewhere"
-        },
-        {
-            "phone": "d̚d",
-            "phoneme": "qd",
-            "environment": "elsewhere"
-        },
-        {
-            "phone": "p̚p",
-            "phoneme": "qp",
-            "environment": "elsewhere"
+            "phone": "p̚",
+            "phoneme": "q",
+            "environment": "before p",
+            "notes": "archiphoneme"
         }
     ]
 }
