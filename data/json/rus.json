@@ -1,7 +1,7 @@
 {
     "iso": "rus",
-    "ɡlottocodes": [],
-    "primary src": "",
+    "ɡlottocodes": ["russ1263"],
+    "primary src": "Yanushevskaya-Buncic:2015-illustration",
     "secondary srcs": [],
     "epitran": "rus-Cyrl",
     "mappings": [
