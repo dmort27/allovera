@@ -1,7 +1,7 @@
 {
     "iso": "fra",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["stan1290"],
+    "primary src": "Fougeron-Smith:1993-illustration",
     "secondary srcs": [],
     "epitran": "fra-Latn",
     "mappings": [
@@ -43,6 +43,11 @@
         {
             "phone": "a",
             "phoneme": "a",
+            "environment": "elsewhere"
+        },
+        {
+            "phone": "ɑ",
+            "phoneme": "ɑ",
             "environment": "elsewhere"
         },
         {
