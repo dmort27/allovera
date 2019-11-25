@@ -1,7 +1,7 @@
 {
     "iso": "ita",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["ital1282"],
+    "primary src": "Rogers-dArcangeli:2004-illustration",
     "secondary srcs": [],
     "epitran": "ita-Latn",
     "mappings": [
