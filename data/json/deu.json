@@ -1,7 +1,7 @@
 {
     "iso": "deu",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["stan1295"],
+    "primary src": "Kunkel:2005-die-grammatik",
     "secondary srcs": [],
     "epitran": "deu-Latn",
     "mappings": [
