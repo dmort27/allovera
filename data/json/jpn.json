@@ -222,36 +222,42 @@
         },
         {
             "phone": "ɴ",
-            "phoneme": "ŋ",
-            "environment": "elsewhere"
+            "phoneme": "N",
+            "environment": "elsewhere",
+            "notes": "archiphoneme"
         },
         {
             "phone": "m",
-            "phoneme": "ŋ",
-            "environment": "before /p, b, m/"
+            "phoneme": "N",
+            "environment": "before /p, b, m/",
+            "notes": "archiphoneme"
         },
         {
             "phone": "ɲ",
-            "phoneme": "ŋ",
-            "environment": "before [t͡ɕ, d͡ʑ, ɲ]"
+            "phoneme": "N",
+            "environment": "before [t͡ɕ, d͡ʑ, ɲ]",
+            "notes": "archiphoneme"
         },
         {
             "phone": "ŋ",
-            "phoneme": "ŋ",
-            "environment": "before /k, ɡ/"
+            "phoneme": "N",
+            "environment": "before /k, ɡ/",
+            "notes": "archiphoneme"
         },
         {
             "phone": "n",
-            "phoneme": "ŋ",
-            "environment": "before [d, t, t͡s, n]"
+            "phoneme": "N",
+            "environment": "before [d, t, t͡s, n]",
+            "notes": "archiphoneme"
         },
         {
             "phone": "n̺",
-            "phoneme": "ŋ",
-            "environment": "before liquid /r/"
+            "phoneme": "N",
+            "environment": "before liquid /r/",
+            "notes": "archiphoneme"
         },
         {
-            "phone": "bbʲj",
+            "phone": "bʲj",
             "phoneme": "by",
             "environment": "elsewhere"
         },
