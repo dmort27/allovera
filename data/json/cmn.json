@@ -1,7 +1,7 @@
 {
     "iso": "cmn",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["mand1415"],
+    "primary src": "Norman:1988-chinese",
     "secondary srcs": [],
     "epitran": "cmn-Hans",
     "mappings": [
