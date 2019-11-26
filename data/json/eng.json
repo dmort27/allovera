@@ -1,7 +1,7 @@
 {
     "iso": "eng",
     "glottocodes": ["nort3312"],
-    "primary src": "IPA:1999-handbook",
+    "primary src": "Ladefoged:1999-american",
     "secondary srcs": [],
     "epitran": "eng-Latn",
     "mappings": [
