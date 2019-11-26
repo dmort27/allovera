@@ -1,7 +1,7 @@
 {
     "iso": "tgl",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["taga1270"],
+    "primary src": "Wiki:2019-tagalog-phonology",
     "secondary srcs": [],
     "epitran": "tgl-Latn",
     "mappings": [
