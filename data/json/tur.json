@@ -1,7 +1,7 @@
 {
     "iso": "tur",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["nucl1301"],
+    "primary src": "Zimmer-Orgun:1992-illustration",
     "secondary srcs": [],
     "epitran": "tur-Latn",
     "mappings": [
