@@ -1,9 +1,9 @@
 {
     "iso": "vie",
-    "glottocodes": [],
-    "primary src": "",
+    "glottocodes": ["viet1252"],
+    "primary src": "Kirby:2011-illustration",
     "secondary srcs": [],
-    "epitran": "",
+    "epitran": "vie-Latn",
     "mappings": [
         {
             "phone": "p̚",
